@@ -1,0 +1,12 @@
+/Users/yasminmorshed/Desktop/bowling-tdd/BowlingLibrary/bin/Debug/net6.0/BowlingLibrary.deps.json
+/Users/yasminmorshed/Desktop/bowling-tdd/BowlingLibrary/bin/Debug/net6.0/BowlingLibrary.dll
+/Users/yasminmorshed/Desktop/bowling-tdd/BowlingLibrary/bin/Debug/net6.0/ref/BowlingLibrary.dll
+/Users/yasminmorshed/Desktop/bowling-tdd/BowlingLibrary/bin/Debug/net6.0/BowlingLibrary.pdb
+/Users/yasminmorshed/Desktop/bowling-tdd/BowlingLibrary/obj/Debug/net6.0/BowlingLibrary.csproj.AssemblyReference.cache
+/Users/yasminmorshed/Desktop/bowling-tdd/BowlingLibrary/obj/Debug/net6.0/BowlingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasminmorshed/Desktop/bowling-tdd/BowlingLibrary/obj/Debug/net6.0/BowlingLibrary.AssemblyInfoInputs.cache
+/Users/yasminmorshed/Desktop/bowling-tdd/BowlingLibrary/obj/Debug/net6.0/BowlingLibrary.AssemblyInfo.cs
+/Users/yasminmorshed/Desktop/bowling-tdd/BowlingLibrary/obj/Debug/net6.0/BowlingLibrary.csproj.CoreCompileInputs.cache
+/Users/yasminmorshed/Desktop/bowling-tdd/BowlingLibrary/obj/Debug/net6.0/BowlingLibrary.dll
+/Users/yasminmorshed/Desktop/bowling-tdd/BowlingLibrary/obj/Debug/net6.0/ref/BowlingLibrary.dll
+/Users/yasminmorshed/Desktop/bowling-tdd/BowlingLibrary/obj/Debug/net6.0/BowlingLibrary.pdb
